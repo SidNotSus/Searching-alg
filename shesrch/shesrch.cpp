@@ -48,7 +48,7 @@ while (pow(2, i) < arr.size() && num > arr[pow(2, i)])
 {
 	i -= -1;
 }
-if (pow(2, i) < arr.size() || arr[pow(2, i)] == num)
+if (pow(2, i) < arr.size() && arr[pow(2, i)] == num)
 {
 	cout << num;
 	return;

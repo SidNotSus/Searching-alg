@@ -1,9 +1,9 @@
 ﻿  shesrch.cpp
-C:\Users\Иван\source\repos\shesrch\shesrch.cpp(15,13): warning C4018:  >=: несоответствие типов со знаком и без знака
-C:\Users\Иван\source\repos\shesrch\shesrch.cpp(47,47): warning C4244:  аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
-C:\Users\Иван\source\repos\shesrch\shesrch.cpp(51,44): warning C4244:  аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
-C:\Users\Иван\source\repos\shesrch\shesrch.cpp(59,49): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\Иван\source\repos\shesrch\shesrch.cpp(59,34): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\Иван\source\repos\shesrch\shesrch.cpp(63,41): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\Иван\source\repos\shesrch\shesrch.cpp(63,33): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
-  shesrch.vcxproj -> C:\Users\Иван\source\repos\shesrch\Debug\shesrch.exe
+C:\Users\Иван\Desktop\Git\shesrch\shesrch.cpp(15,13): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\Git\shesrch\shesrch.cpp(47,47): warning C4244:  аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Иван\Desktop\Git\shesrch\shesrch.cpp(51,38): warning C4244:  аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Иван\Desktop\Git\shesrch\shesrch.cpp(59,49): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\Desktop\Git\shesrch\shesrch.cpp(59,34): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\Desktop\Git\shesrch\shesrch.cpp(61,41): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\Desktop\Git\shesrch\shesrch.cpp(61,33): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+  shesrch.vcxproj -> C:\Users\Иван\Desktop\Git\shesrch\Debug\shesrch.exe
